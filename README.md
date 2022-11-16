@@ -1,1 +1,1 @@
-# desafio-go
+<b>Comando para execução:</b> `docker run ellenists/desafio-go`
